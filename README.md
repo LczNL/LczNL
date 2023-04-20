@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hello viewer!</h1>
+👋 Hello viewer!
 </div>
 
 ---
