@@ -17,14 +17,14 @@
 </div>
 
 ---
-## About Me :
+<div align="center" > <b><h2>👾About Me:</b></h2>
 
-- <div align="center" ><b><a href="https://github.com/LczNL">@LczNL</a>
+<div align="center" >-<b><a href="https://github.com/LczNL">@LczNL</a>
 <div align="center" >- 📚 This is my Personal archive
-- 👀 I’m interested in playing games, art and music 
-- 🌱 I’m currently learning skill and programming. 
-- 👨‍💻 Currently working on making games.
-- 📫 How to reach me on discord 𝙇𝙘𝙯#0001
+<div align="center" >- 👀 I’m interested in playing games, art and music 
+<div align="center" >- 🌱 I’m currently learning skill and programming. 
+<div align="center" >- 👨‍💻 Currently working on making games.
+<div align="center" >- 📫 How to reach me on discord 𝙇𝙘𝙯#0001
 
 ---
 
