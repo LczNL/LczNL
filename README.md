@@ -1,17 +1,25 @@
+<html>
+<head>
 <style>
 img {
   border: 7px solid #FF3333;
 }
-<div id="header" align="center">
-  <img src=https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e477xpgnq22zctxbu21nzswtexsl8t264i0cvcwnvb0&rid=giphy.gif&ct=g width="100"/>
-</div>
+</style>
+</head>
+<body>
+
+<img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e477xpgnq22zctxbu21nzswtexsl8t264i0cvcwnvb0&rid=giphy.gif&ct" style="width:150px">
+
+</body>
+</html>
+
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=LczNL&style=flat-square&color=red" alt=""/>
 </div>
 
 <div align="center">
-👋 Hello viewer!
+  <h1>👋 Hello viewer!</h1>
 </div>
 
 ---
