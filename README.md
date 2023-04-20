@@ -1,5 +1,4 @@
-<html>
-<head>
+
 <style>
 img {
   border: 7px solid #FF3333;
