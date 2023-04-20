@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=merlijn1411&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=LczNL&style=flat-square&color=red" alt=""/>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src=https://media4.giphy.com/media/Q61LJj43H48z1FIK4X/giphy.gif?cid=ecf05e47u3tk18279wjcry93hl0s0hwh9rzhjilxamgwt094&rid=giphy.gif&ct=g width="600" height="300"/>
+  <img src=https://media1.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47xgl3n474m6r6xpv8x7kt619q5fpzlsjn1o7z34lq&rid=giphy.gif&ct=g=g width="800" height="300"/>
 </div>
 
 ---
