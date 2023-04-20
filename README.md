@@ -3,7 +3,8 @@
         <!-- Picture must be 600px X 600px-->
         <div class="col-lg-5 col-xs-6" id="picturebox">
 
-      <img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e477xpgnq22zctxbu21nzswtexsl8t264i0cvcwnvb0&rid=giphy.gif&ct" alt="profile pic" height="10%" width="10%"/>
+      <img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e477xpgnq22zctxbu21nzswtexsl8t264i0cvcwnvb0&rid=giphy.gif&ct" 
+       height="10%" width="10%"/>
         </div>
 </div>
 
