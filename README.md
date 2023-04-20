@@ -19,7 +19,7 @@
 ---
 ## About Me :
 
-- I’m <b>[@LczNL]
+- I’m <b><big>[@LczNL]
 - 📚 This is my Personal archive
 - 👀 I’m interested in playing games, art and music 
 - 🌱 I’m currently learning skill and programming. 
