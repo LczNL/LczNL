@@ -19,7 +19,7 @@
 ---
 ## About Me :
 
-- I’m <url src=[@LczNL](https://github.com/LczNL)/>
+- I’m <url src=[@LczNL]=g=g/>
 </url>
 - 📚 This is my Personal archive
 - 👀 I’m interested in playing games, art and music 
