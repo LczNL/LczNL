@@ -19,7 +19,8 @@
 ---
 ## About Me :
 
-- I’m @LczNL
+- I’m <img src=@LczNL/>
+</div>
 - 📚 This is my Personal archive
 - 👀 I’m interested in playing games, art and music 
 - 🌱 I’m currently learning skill and programming. 
