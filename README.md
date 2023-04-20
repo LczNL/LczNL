@@ -19,7 +19,7 @@
 ---
 ## About Me :
 
-- I’m <img src=@LczNL/>
+- I’m <url src=@LczNL/>
 </div>
 - 📚 This is my Personal archive
 - 👀 I’m interested in playing games, art and music 
