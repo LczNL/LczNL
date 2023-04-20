@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-👋 Hello viewer!
+  <h1>👋 Hello viewer!</h1>
 </div>
 
 ---
