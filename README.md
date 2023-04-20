@@ -19,7 +19,7 @@
 ---
 <div align="center" > <b><h2>👾About Me:</b></h2>
 
-<div align="center" >-<b><a href="https://github.com/LczNL">@LczNL</a>
+<div align="center" ><b><a href="https://github.com/LczNL">@LczNL</a>
 <div align="center" >- 📚 This is my Personal archive
 <div align="center" >- 👀 I’m interested in playing games, art and music 
 <div align="center" >- 🌱 I’m currently learning skill and programming. 
