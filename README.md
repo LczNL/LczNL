@@ -1,3 +1,7 @@
+<style>
+img {
+  border: 7px solid #FF3333;
+}
 <div id="header" align="center">
   <img src=https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e477xpgnq22zctxbu21nzswtexsl8t264i0cvcwnvb0&rid=giphy.gif&ct=g width="100"/>
 </div>
