@@ -1,5 +1,10 @@
-<div id="header" align="center">
-  <img src=https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e477xpgnq22zctxbu21nzswtexsl8t264i0cvcwnvb0&rid=giphy.gif&ct=g width="100"/>
+<div class="container">
+<div class="row">
+        <!-- Picture must be 600px X 600px-->
+        <div class="col-lg-5 col-xs-6" id="picturebox">
+
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/600px-Apple_logo_black.svg.png](https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e477xpgnq22zctxbu21nzswtexsl8t264i0cvcwnvb0&rid=giphy.gif&ct)" alt="profile pic" height="10%" width="10%"/>
+        </div>
 </div>
 
 <div id="badges" align="center">
