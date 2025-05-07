@@ -22,9 +22,9 @@
 <div align="center" ><b><a href="https://github.com/LczNL">@LczNL</a>
 <div align="center" > - 📚 This is my Personal archive
 <div align="center" > - 👀 I’m interested in playing games, art and music 
-<div align="center" > - 🌱 I’m currently learning skill and programming. 
-<div align="center" > - 👨‍💻 Currently working on making games.
-<div align="center" > - 📫 How to reach me on discord 𝙇𝙘𝙯#0001
+<div align="center" > - 🌱 I’m currently learning Game development and Cybersecurity
+<div align="center" > - 👨‍💻 Currently Searching for Bugs / exploits ;)
+<div align="center" > - 📫 How to reach me: discord "lccz."
 
 ---
 
